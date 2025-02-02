@@ -218,3 +218,4 @@ C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\refin
 C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordinventory.pdb
 C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordinventory.genruntimeconfig.cache
 C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\ref\Ordinventory.dll
+C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordinventory.sourcelink.json
