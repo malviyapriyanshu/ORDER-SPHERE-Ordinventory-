@@ -1,22 +1,26 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Ordinventory.Data;
+using Ordinventory.Models;
 
 namespace Ordinventory.Controllers
 {
-    public class CategoryController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class CategoryController : ControllerBase
     {
-        private readonly ApplicationDbContext _context;
+        private readonly ApplicationDbContext _db;
 
-        public CategoryController(ApplicationDbContext context)
+        public CategoryController(ApplicationDbContext db)
         {
-            _context = context;
+            _db = db;
         }
 
-        // GET: Category
-        public async Task<IActionResult> Index()
+        [HttpGet]
+        public ActionResult<List<Category>> GetCategories()
         {
-            return View(await _context.Categories.ToListAsync());
+            var categories = _db.Categories.ToList();
+            return Ok(categories);
         }
     }
 }

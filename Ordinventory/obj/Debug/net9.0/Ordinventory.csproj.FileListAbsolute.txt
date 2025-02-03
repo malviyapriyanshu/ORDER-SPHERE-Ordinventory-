@@ -219,3 +219,8 @@ C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordin
 C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordinventory.genruntimeconfig.cache
 C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\ref\Ordinventory.dll
 C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordinventory.sourcelink.json
+C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Priya\OneDrive\Desktop\Ordinventory\Ordinventory\obj\Debug\net9.0\Ordinventory.MvcApplicationPartsAssemblyInfo.cs
