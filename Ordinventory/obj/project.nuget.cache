@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6GkUSGFI7k=",
+  "dgSpecHash": "V+CvhLmq+Q8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\Ordinventory\\Ordinventory.csproj",
+  "projectFilePath": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\ordinventory\\Ordinventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Priya\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Priya\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

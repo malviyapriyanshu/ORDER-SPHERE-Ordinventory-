@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\Ordinventory\\Ordinventory.csproj": {}
+    "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\ordinventory\\Ordinventory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\Ordinventory\\Ordinventory.csproj": {
+    "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\ordinventory\\Ordinventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\Ordinventory\\Ordinventory.csproj",
+        "projectUniqueName": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\ordinventory\\Ordinventory.csproj",
         "projectName": "Ordinventory",
-        "projectPath": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\Ordinventory\\Ordinventory.csproj",
+        "projectPath": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\ordinventory\\Ordinventory.csproj",
         "packagesPath": "C:\\Users\\Priya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\Ordinventory\\obj\\",
+        "outputPath": "C:\\Users\\Priya\\OneDrive\\Desktop\\Ordinventory\\ordinventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
